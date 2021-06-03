@@ -1,0 +1,1 @@
+# javarush.task3310.shortener
